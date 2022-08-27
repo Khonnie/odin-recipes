@@ -5,3 +5,7 @@ font-size: 32px;
 font-weight: 700;
 text-align: center;
 }
+img {
+    height: auto;
+    width: 200px;
+}
