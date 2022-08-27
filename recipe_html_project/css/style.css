@@ -1,5 +1,5 @@
 div {
-background-color: red;
+background-color: rgb(243, 141, 141);
 color: white;
 font-size: 32px;
 font-weight: 700;
@@ -7,5 +7,15 @@ text-align: center;
 }
 img {
     height: auto;
-    width: 200px;
+    width: 100px;
+}
+.navigation {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    color: black;
+    background-color: blueviolet;
+}
+.navlinks {
+    font-weight: 700;
+    background-color: aquamarine;
 }
